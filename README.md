@@ -5,18 +5,11 @@
 
 En este proyecto se busca realizar un análisis exploratorio de datos (EDA) en el cual se busca identificar los barrios más productivos para las compañías de taxis. El análisis se realiza a partir de la base de datos proporcionada, que contiene información sobre las carreras realizadas por las compañías de taxis en la ciudad de Nueva York.
 
- # **Objetivo:** Identificar los barrios mas productivos para las compañias de taxis..
+ # **Objetivo:** 
+ 
+ Identificar los barrios más productivos para las compañias de taxis..
 
- **Etapas:**
-
-1.  Revisión y análisis de la base de datos.
-2.  Procesamiento de bases de datos: revisión de estilo snake_case, validación de tipo de datos por dataset, valores duplicados explícitos e intrínsecos, valores ausentes, acciones tomadas para valores ausentes.
-3.  Uniones y/o agrupaciones en caso de ser requeridas para los análisis.
-4. Análisis general de las bases de datos: utilización de gráficos y estadísticas descriptivas.
-5. Análisis estadístico: definición de hipótesis, pruebas de probabilidad, recomendaciones estadísticas.
-6. Conclusiones
-
-**En el presente proyecto se realiza:**
+## **Análisis**
 
 - Revisión de la información. 
 - Tratamiento inicial de los datos: correcciones de estilo, agregar datos importantes a través del uso de funciones. 
@@ -33,5 +26,15 @@ En este proyecto se busca realizar un análisis exploratorio de datos (EDA) en e
 - Estadísticas descriptivas. 
 - Pruebas de Levene. 
 - Pruebas de hipótesis.
+- Conclusiones generales.
+
+## **Librerias utilizadas**
+
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* scipy
+
 
 **El archivo se encuentra dentro del directorio "notebooks".**
