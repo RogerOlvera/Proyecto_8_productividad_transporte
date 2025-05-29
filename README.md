@@ -35,4 +35,5 @@ En este proyecto se busca realizar un análisis exploratorio de datos (EDA) en e
 
 ## :pencil: **Notas Adicionales**
 
-:diamond_shape_with_a_dot_inside: Link Jupyter Notebook: 
+:diamond_shape_with_a_dot_inside: Link Jupyter Notebook: https://github.com/RogerOlvera/Proyecto_8_productividad_transporte/blob/main/notebooks/sprint_8_proyecto_evaluado.ipynb
+
